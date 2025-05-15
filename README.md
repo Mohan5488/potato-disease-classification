@@ -13,7 +13,6 @@ This project uses Convolutional Neural Networks (CNN) to detect and classify dis
 * [Model Architecture](#model-architecture)
 * [Results](#results)
 * [Technologies Used](#technologies-used)
-* [License](#license)
 
 ---
 
